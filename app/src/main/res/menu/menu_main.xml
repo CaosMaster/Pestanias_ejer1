@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+      xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context=".Pestanias_ejer1"
+    >
+
+    <item
+        android:id="@+id/action_settings"
+        android:title="Settings"
+        android:orderInCategory="100"
+        app:showAsAction="never"
+        />
+
+    <item
+        android:id="@+id/auxiliar"
+        android:icon="@drawable/auxliar"
+        android:title="aux"
+        android:orderInCategory="100"
+        app:showAsAction="always"
+        />
+
+    <item
+        android:id="@+id/buscar"
+        android:icon="@drawable/ic_buscar"
+        android:title="Buscar"
+        android:orderInCategory="100"
+        app:showAsAction="always"
+        />
+</menu>

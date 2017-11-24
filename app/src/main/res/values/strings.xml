@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Pestanias_ejer1</string>
+    <string name="action_otro">otro</string>
+    <string name="action_buscar">buscar</string>
+</resources>
